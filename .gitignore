@@ -1,0 +1,5 @@
+// 忽略 test.css 这个文件
+test.css
+
+// 忽略test 目录下所有的文件
+test/
